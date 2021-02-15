@@ -1,0 +1,1 @@
+web: gunicorn Argencia.wsgi --log-file -
